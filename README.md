@@ -1,6 +1,6 @@
 # Employee_Burnout_Analysis_Using_Machine_learning
-# Tech Stack Used : Python . 
-# Code Editor : Jupiter and Google Colab .
+-> Tech Stack Used : Python . 
+-> Code Editor : Jupiter and Google Colab .
 Predicting the Burn Rate of employees using Machine Learning Algorithms
 This project could make a significant contribution to preventing burnout. 
 This project provides valuable insight into the factors that contribute to burnout and how these factors can be used to predict burnout. 
